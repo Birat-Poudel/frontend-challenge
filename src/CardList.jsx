@@ -15,14 +15,14 @@ const CardList = (props) => {
         liked={true}
         likeCount={87}
         information="Price Per Plate: "
-        menuItemOne="Chicken Momo"
+        menuItemOne="Chocolate Pastry"
         menuItemOnePrice={120}
-        menuItemTwo="Mutton Momo"
-        menuItemTwoPrice={150}
-        menuItemThree="Veg Momo"
-        menuItemThreePrice={100}
-        menuItemFour="Buff Momo"
-        menuItemFourPrice={100}
+        menuItemTwo="Vanilla Pastry"
+        menuItemTwoPrice={120}
+        menuItemThree="Strawberry Pastry"
+        menuItemThreePrice={120}
+        menuItemFour="Double Chocolate Pastry"
+        menuItemFourPrice={200}
       />
 
       <Card
