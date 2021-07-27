@@ -1,9 +1,10 @@
-#Front End Intern Challenge
+# Front End Intern Challenge
 
 This website is made with **ReactJS**.
-**Deployed Website Link :**
 
-##Instructions for running the project:
+**Deployed Website Link :** https://keen-mirzakhani-147aa4.netlify.app/
+
+## Instructions for running the project:
 
 Step-1:
 Clone the repository on your local machine.
