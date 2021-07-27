@@ -1,0 +1,15 @@
+.card__list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 900px) {
+  .card__list {
+    flex-direction: row;
+  }
+  html {
+    font-size: 55%;
+  }
+}
